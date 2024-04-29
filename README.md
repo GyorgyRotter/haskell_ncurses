@@ -16,7 +16,7 @@ At the end of the dockerfile file you can find the minimal dependencies to compi
 
 ## How to build and run
 
-To comlipe, link and run just use
+To compile, link and run just use
 
 ```bash
 make
